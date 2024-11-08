@@ -4,7 +4,7 @@
     The velocity is measured in all the 3 dimension and it is calculated using the distance from the camera (y axis) and the distance
     on the perpendicular plane (xz plane) from the previous position of the ball.
 
-    The code is not perfect but quite accurately and it is a good starting point to understand how to manipulate computer vision.
+    The code is not perfect but quite accurate and it is a good starting point to understand how to manipulate computer vision.
 
 '''
 
